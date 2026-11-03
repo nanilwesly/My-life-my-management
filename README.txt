@@ -1,0 +1,1 @@
+My Life Smart Manager. Upload index.html, manifest.webmanifest, and sw.js to the repository root. Then Settings > Pages > Deploy from a branch > main > /(root) > Save. Activities are stored locally in the browser. Export backups regularly. Restore replaces the local list. This static app cannot send SMS or reliable background alerts.
